@@ -1,0 +1,5 @@
+1,Hotel Varna,5,Diana,7,1200
+2,Hotel International,5,Stefan,3,2400
+3,Hotel Varna,5,Maria,5,800
+4,Hotel Central,2,Cosmin,4,600
+5,Hotel Moxa,3,Robert,3,400

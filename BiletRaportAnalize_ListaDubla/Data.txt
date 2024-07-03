@@ -1,0 +1,5 @@
+1,100,2,Analiza1,Analiza2,87,12,85,10
+2,300,1,Analiza1,245,189
+3,200,3,Analiza1,Analiza2,Analiza1,87,12,156,80,0,100
+4,103,2,Analiza1,Analiza2,85,300,76,300
+5,108,2,Analiza1,Analiza2,100,12,82,8

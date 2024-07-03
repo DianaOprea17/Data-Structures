@@ -1,0 +1,5 @@
+12.03,Diana,0.5,consult,50
+17.05,Stefan,1,curatare,80
+17.05,Diana,2,extractie,200
+12.03,Maria,3,plomba,120
+23.06,Robert,2,consult,50

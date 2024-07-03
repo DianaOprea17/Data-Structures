@@ -1,0 +1,5 @@
+Produs1,12,1,ServiceUnu
+Produs2,13,1,ServiceDoi
+Produs3,16,0,ServiceTrei
+Produs4,24,1,ServicePatru
+Produs5,3,0,ServiceCinci

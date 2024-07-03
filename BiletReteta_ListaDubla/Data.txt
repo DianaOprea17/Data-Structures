@@ -1,0 +1,5 @@
+1,Diana,Stefan,DA,3,2.2
+2,Cosmin,Bogdan,DA,6,13
+3,Robert,Stefan,NU,12,50
+4,Ana,Maria,DA,4,23
+5,Diana,Maria,NU,1,1.7

@@ -1,0 +1,5 @@
+2,Farmacie1,1800.57,Diana,5,Buzau
+1,Farmacie2,30000,Ana,9,Bucuresti
+3,Farmacie3,2300.83,Robert,4,Buzau
+4,Farmacie4,2000,Stefan,4,Ploiesti
+5,Farmacie5,1234.56,Maria,7,Brasov

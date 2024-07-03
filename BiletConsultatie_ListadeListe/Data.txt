@@ -1,0 +1,7 @@
+12/05,Diana,Stefan,cardiologie,inima,180
+13/08,Ana,Maria,neurologie,creier,230
+17/05,Stefan,Diana,cardiologie,inima,115
+08/12,Robert,Cosmin,gastro,stomac,98
+12/05,Maria,Ana,pneumologie,boala plaman,240
+05/03,Diana,Maria,cardiologie,ventricul,300
+11/04,Maria,Ana,pneumologie,plaman,110
