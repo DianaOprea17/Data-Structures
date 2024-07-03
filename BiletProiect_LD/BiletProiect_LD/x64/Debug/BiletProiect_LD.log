@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\facultate\sdd\BiletProiect_LD\BiletProiect_LD\Source.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  D:\facultate\sdd\BiletProiect_LD\BiletProiect_LD\Source.c(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\facultate\sdd\BiletProiect_LD\BiletProiect_LD\Source.c(34,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BiletProiect_LD.vcxproj -> D:\facultate\sdd\BiletProiect_LD\x64\Debug\BiletProiect_LD.exe
